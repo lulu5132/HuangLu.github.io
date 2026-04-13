@@ -1,6 +1,6 @@
 ---
 title: "Spotify Multi-dimensional Music Feature Visualization Analysis"
-date: 2026-04-13
+date: 2026-04-13 10:00:00 +0800
 categories:
   - portfolio
 tags:

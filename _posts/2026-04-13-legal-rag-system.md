@@ -1,6 +1,6 @@
 ---
 title: "Legal RAG Assistant for Case Retrieval"
-date: 2026-04-13
+date: 2026-04-14 12:00:00 +0800
 categories:
   - portfolio
 tags:
@@ -32,6 +32,14 @@ Legal and IP teams often spend large amounts of manual effort on compliance anal
 - Delivered an end-to-end assistant for legal compliance analysis and patent proposal drafting
 - Improved retrieval quality and reduced hallucination risk through hybrid search and schema constraints
 - Established a practical deployment path with cloud-local model orchestration
+- Produced benchmark reports comparing multiple model options on legal terminology understanding and inference latency
+
+## My Role
+
+- Project Leader and Lead Developer
+- Designed and implemented the core RAG retrieval pipeline and hybrid search strategy
+- Built JSON-schema-based output controls for patent drafting standardization
+- Led model selection experiments for cloud/local deployment decisions
 
 ## Tech Stack
 

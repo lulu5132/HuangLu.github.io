@@ -1,6 +1,6 @@
 ---
 title: "Hybrid-Traj-Guard: Asynchronous AI Decision Architecture"
-date: 2026-04-13
+date: 2026-04-14 11:00:00 +0800
 categories:
   - portfolio
 tags:
@@ -30,6 +30,13 @@ In autonomous driving, pure LLM-based decision systems face latency bottlenecks 
 - Reduced collision rates by approximately 40%-60% versus baseline methods
 - Achieved average trajectory error (ADE) <= 0.2m
 - Improved interpretability for complex decision processes through semantic intent outputs
+
+## My Role
+
+- Project Leader and Architecture Owner
+- Designed the asynchronous decision/execution split between LLM and CNN/RNN modules
+- Integrated PPO and barrier-function safety constraints into trajectory planning
+- Led evaluation design and baseline comparison reporting
 
 ## Tech Stack
 
