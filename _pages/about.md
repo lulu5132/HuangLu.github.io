@@ -22,20 +22,23 @@ My focus areas include:
 
 ### Technical
 
-- LLM applications, RAG, Prompt Engineering, AI Agents
-- Python, PyTorch, Transformers, LlamaIndex, FAISS
+- LLM applications (DeepSeek/Llama), RAG, Prompt Engineering, AI Agents
+- Python, PyTorch, Transformers, SQL, LlamaIndex, FAISS
 - Reinforcement Learning (PPO), trajectory prediction and planning
 
 ### Business
 
 - Translating legal or operational requirements into AI workflows
+- Legal compliance logic and risk-aware requirement analysis
 - Defining impact metrics and evaluation criteria for deployment
+- Problem framing and experiment design for model iteration
+- A/B testing mindset for prompt and pipeline optimization
 - Converting prototype solutions into practical internal tools
 
 ### Tools
 
-- Git/GitHub, Linux, Cloud GPU computing
-- Jupyter, VS Code, SQL
+- VS Code, AutoDL, Git/GitHub, Docker
+- Linux, Cloud GPU computing, Jupyter
 - JSON Schema, API-based model orchestration, FAISS
 
 ## Education

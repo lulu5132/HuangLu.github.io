@@ -31,7 +31,7 @@ In autonomous driving, pure LLM-based decision systems face latency bottlenecks 
 - Achieved average trajectory error (ADE) <= 0.2m
 - Improved interpretability for complex decision processes through semantic intent outputs
 
-## My Role
+## Contribution
 
 - Project Leader and Architecture Owner
 - Designed the asynchronous decision/execution split between LLM and CNN/RNN modules

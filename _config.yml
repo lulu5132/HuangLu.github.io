@@ -121,6 +121,9 @@ author:
   email            : "hl13870728762@outlook.com"
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-square-envelope"
+      url: "mailto:hl13870728762@outlook.com"
     - label: "Phone"
       icon: "fas fa-fw fa-phone"
       url: "tel:+8613870728762"

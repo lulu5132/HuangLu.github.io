@@ -17,7 +17,7 @@ Legal and IP teams often spend large amounts of manual effort on compliance anal
 
 - Legal compliance documents and policy materials
 - Patent-related references and structured drafting requirements
-- Domain knowledge indexed into a private vector database
+- Domain knowledge indexed into a private vector database at document-chunk level
 
 ## Approach
 
@@ -32,14 +32,18 @@ Legal and IP teams often spend large amounts of manual effort on compliance anal
 - Delivered an end-to-end assistant for legal compliance analysis and patent proposal drafting
 - Improved retrieval quality and reduced hallucination risk through hybrid search and schema constraints
 - Established a practical deployment path with cloud-local model orchestration
-- Produced benchmark reports comparing multiple model options on legal terminology understanding and inference latency
+- Produced benchmark reports across 5 model variants on legal terminology understanding and inference latency
 
-## My Role
+## Contribution
 
 - Project Leader and Lead Developer
 - Designed and implemented the core RAG retrieval pipeline and hybrid search strategy
 - Built JSON-schema-based output controls for patent drafting standardization
 - Led model selection experiments for cloud/local deployment decisions
+
+## Architecture
+
+![Legal RAG architecture]({{ '/assets/images/projects/legal-rag-architecture.svg' | relative_url }})
 
 ## Tech Stack
 

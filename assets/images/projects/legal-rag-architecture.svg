@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+  <defs>
+    <style>
+      .t { font: 20px Arial, sans-serif; fill: #0f172a; }
+      .s { font: 16px Arial, sans-serif; fill: #334155; }
+      .box { fill: #f8fafc; stroke: #0ea5e9; stroke-width: 2; rx: 10; }
+      .arr { stroke: #0284c7; stroke-width: 3; marker-end: url(#m); }
+    </style>
+    <marker id="m" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L9,3 z" fill="#0284c7" />
+    </marker>
+  </defs>
+
+  <rect width="1200" height="520" fill="#ffffff"/>
+  <text x="30" y="40" class="t">Legal RAG Assistant Architecture</text>
+
+  <rect x="40" y="90" width="210" height="90" class="box"/>
+  <text x="65" y="125" class="t">Legal Corpus</text>
+  <text x="65" y="150" class="s">Regulations / Patents</text>
+
+  <rect x="320" y="90" width="240" height="90" class="box"/>
+  <text x="345" y="125" class="t">Chunk + Embed</text>
+  <text x="345" y="150" class="s">LlamaIndex Pipeline</text>
+
+  <rect x="640" y="90" width="220" height="90" class="box"/>
+  <text x="670" y="125" class="t">Vector Store</text>
+  <text x="670" y="150" class="s">FAISS</text>
+
+  <rect x="940" y="90" width="220" height="90" class="box"/>
+  <text x="970" y="125" class="t">Hybrid Retriever</text>
+  <text x="970" y="150" class="s">Recall + Precision</text>
+
+  <line x1="250" y1="135" x2="320" y2="135" class="arr"/>
+  <line x1="560" y1="135" x2="640" y2="135" class="arr"/>
+  <line x1="860" y1="135" x2="940" y2="135" class="arr"/>
+
+  <rect x="160" y="290" width="260" height="100" class="box"/>
+  <text x="190" y="330" class="t">DeepSeek API</text>
+  <text x="190" y="355" class="s">Cloud Inference</text>
+
+  <rect x="470" y="290" width="260" height="100" class="box"/>
+  <text x="510" y="330" class="t">Ollama Local Model</text>
+  <text x="510" y="355" class="s">Privacy-first Option</text>
+
+  <rect x="780" y="290" width="320" height="100" class="box"/>
+  <text x="810" y="330" class="t">JSON Schema Output Guard</text>
+  <text x="810" y="355" class="s">Standardized Draft Documents</text>
+
+  <line x1="1050" y1="180" x2="290" y2="290" class="arr"/>
+  <line x1="1050" y1="180" x2="600" y2="290" class="arr"/>
+  <line x1="420" y1="340" x2="470" y2="340" class="arr"/>
+  <line x1="730" y1="340" x2="780" y2="340" class="arr"/>
+</svg>
