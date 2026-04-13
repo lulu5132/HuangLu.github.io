@@ -7,6 +7,10 @@ author_profile: true
 
 I am Lu Huang, an AI Application Engineer with an interdisciplinary background in IoT and AI. I specialize in building production-ready LLM tools with strong engineering constraints, especially for legal compliance and decision-critical workflows.
 
+**Focus:** LLM / RAG / Reinforcement Learning
+
+**Positioning:** Seeking internship or full-time opportunities in AI algorithm engineering and LLM application engineering.
+
 My focus areas include:
 
 - Legal AI and patent drafting automation
