@@ -1,6 +1,6 @@
 ---
 title: "Legal RAG Assistant for Case Retrieval"
-date: 2026-04-14 12:00:00 +0800
+date: 2026-04-13 23:59:00 +0800
 categories:
   - portfolio
 tags:
