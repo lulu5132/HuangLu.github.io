@@ -115,15 +115,15 @@ analytics:
 # Site Author
 author:
   name             : "Lu Huang"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/avatar.jpg"
   bio              : "M.Sc. candidate in Data Science building production-ready LLM applications from 0 to 1."
   location         : "Hong Kong"
   email            : "hl13870728762@outlook.com"
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-square-envelope"
-      url: "mailto:hl13870728762@outlook.com"
+    - label: "Phone"
+      icon: "fas fa-fw fa-phone"
+      url: "tel:+8613870728762"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/lulu5132"
